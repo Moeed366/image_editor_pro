@@ -90,7 +90,7 @@ final editedImage = await Navigator.push(
 ### Example - Image Convert
 
 ```dart
-import 'package:image_editor_plus/utils.dart';
+import 'package:image_editor_pro/utils.dart';
 
 // to jpeg
 final convertedImage = await ImageUtils.convert(

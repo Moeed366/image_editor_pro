@@ -3,10 +3,9 @@
 Image Editor Plugin with simple, easy support for image editing using Paints, Text, Filters, Emoji and Sticker like stories.
 
 
-<img src="https://cdn.ensorta.com/com.ensorta.biller/albums/5b53309f6073bd7662404dc7.1644562653000.HTG8Y6NV8BG.png" width="24%">
-<img src="https://cdn.ensorta.com/com.ensorta.biller/albums/5b53309f6073bd7662404dc7.1644562729000.T9UPP7D59Y.png" width="24%">
-<img src="https://cdn.ensorta.com/com.ensorta.biller/albums/5b53309f6073bd7662404dc7.1644566966000.YKAA8C382JB.png" width="24%">
-<img src="https://cdn.ensorta.com/com.ensorta.biller/albums/5b53309f6073bd7662404dc7.1644567026000.Y9080Y1JYU9.png" width="24%">
+<img src="https://github.com/user-attachments/assets/d61da595-ad9e-4369-a825-53eb8e722b34" width="24%">
+<img src="https://github.com/user-attachments/assets/c389fb5e-1229-4b89-aaa1-bb5ac247eb77" width="24%">
+<img src="https://github.com/user-attachments/assets/ed6ba51a-2e4c-4bb3-b868-00868e6aa22f" width="24%">
 
 
 To start with this, we need to simply add the dependencies in the gradle file of our app module like this

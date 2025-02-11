@@ -12,7 +12,7 @@ To start with this, we need to simply add the dependencies in the gradle file of
 
 ## Installation
 
-First, add `image_editor_plus:` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+First, add `image_editor_pro:` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 Import
 

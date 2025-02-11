@@ -1,6 +1,6 @@
 name: image_editor_pro
 description: Image Editor Plugin with filters, drawing, text and emoji like stories.
-version: 1.0.6
+version: 0.0.1
 homepage: https://github.com/Moeed366/
 
 environment:
